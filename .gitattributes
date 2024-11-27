@@ -1,0 +1,6 @@
+bert_intent_model/* filter=lfs diff=lfs merge=lfs -text
+distilbert_intent_model/* filter=lfs diff=lfs merge=lfs -text
+roberta_intent_model/* filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
