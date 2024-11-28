@@ -9,3 +9,6 @@ tf-keras
 streamlit-lottie
 streamlit
 python-dotenv
+openai
+streamlit
+torch
